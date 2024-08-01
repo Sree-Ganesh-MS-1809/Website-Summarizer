@@ -1,0 +1,2 @@
+To Activate environment in Windows: app\Scripts\activate
+To deactivate just run deactivate
